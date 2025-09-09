@@ -1,0 +1,3 @@
+DefaultLocation="C:/"
+DefaultTheme="Light"
+DefaultFormat="All Files

@@ -1,0 +1,16 @@
+debug/cryptohelper.o
+debug/fileinformation.o
+debug/main.o
+debug/mainwindow.o
+debug/new_file_on_action_dialog.o
+debug/newdirectorycreation.o
+debug/settingsdialog.o
+debug/texteditorsettings.o
+debug/texteditorwindow.o
+debug/moc_fileinformation.o
+debug/moc_mainwindow.o
+debug/moc_new_file_on_action_dialog.o
+debug/moc_newdirectorycreation.o
+debug/moc_settingsdialog.o
+debug/moc_texteditorsettings.o
+debug/moc_texteditorwindow.o

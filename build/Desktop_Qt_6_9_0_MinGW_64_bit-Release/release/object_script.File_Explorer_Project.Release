@@ -1,0 +1,16 @@
+release/cryptohelper.o
+release/fileinformation.o
+release/main.o
+release/mainwindow.o
+release/new_file_on_action_dialog.o
+release/newdirectorycreation.o
+release/settingsdialog.o
+release/texteditorsettings.o
+release/texteditorwindow.o
+release/moc_fileinformation.o
+release/moc_mainwindow.o
+release/moc_new_file_on_action_dialog.o
+release/moc_newdirectorycreation.o
+release/moc_settingsdialog.o
+release/moc_texteditorsettings.o
+release/moc_texteditorwindow.o
